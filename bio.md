@@ -1,41 +1,14 @@
-﻿Hi! My name is Lucas Carrington. This is my second semester in this program. Currently I am on the
-one year track while trying to excel at my career and planning a wedding that is going to take place in
-June. If it sounds like that is crazy, I understand, in many ways I am masochistic with my schedule.
-However busy I am though I love my crazy life and honestly just happy to be here.
-So let's talk about my past education first. I have a B.A in Anthropology (specializing in Archaeology)
-and a B.A in English from the University of Wyoming in 2011. I always liked school, but once I
-finished my B.A's I had no interest in actually pursuing any higher education, I was burned out.
-However, after four years in the working world, I feel much more focused and ready to tackle a new
-academic challenge. I am working on my Computer Science degree in this program, but I have a
-feeling I will be taking at least a semesters worth of statistics classes before this is all over.
-Currently I work as an Archaeologist for the Bureau of Land Management and I love my job. Hopefully
-by the time this class is over I will have moved up the ladder a little bit, be making a little more money,
-and have a bit more responsibility. My job itself consists of doing all of the archaeology clearances for
-every internal project in our field office. This consists of everything from new range fences to water
-wells. Today I was working on a report for a timber sale that I surveyed earlier this year. I tell everyone
+﻿Hi! My name is Lucas Carrington. This is my second semester in this program. Currently I am on the one year track while trying to excel at my career and planning a wedding that is going to take place in June. If it sounds like that is crazy, I understand, in many ways I am masochistic with my schedule. However busy I am though I love my crazy life and honestly just happy to be here. So let's talk about my past education first. I have a B.A in Anthropology (specializing in Archaeology) and a B.A in English from the University of Wyoming in 2011. I always liked school, but once I finished my B.A's I had no interest in actually pursuing any higher education, I was burned out.
+
+However, after four years in the working world, I feel much more focused and ready to tackle a new academic challenge. I am working on my Computer Science degree in this program, but I have a feeling I will be taking at least a semesters worth of statistics classes before this is all over. Currently I work as an Archaeologist for the Bureau of Land Management and I love my job. Hopefully by the time this class is over I will have moved up the ladder a little bit, be making a little more money, and have a bit more responsibility. My job itself consists of doing all of the archaeology clearances for every internal project in our field office. This consists of everything from new range fences to water wells. Today I was working on a report for a timber sale that I surveyed earlier this year. I tell everyone
 my job is great because I get to be outside when it is nice, but when it is snowy, I get to stay inside.
-This brings me to why I am in this program. For those of you that don't know, Archaeologists are
-notoriously technophobic. Most don't like math, and programming is literally a foreign language. I
-however love both technology and going out side and looking for cultural material. In my head I have
-an idea to create a well developed predictive model system. There are many problems with the vast
-majority of predictive models that have been created for archaeology right now. Humans are generally
-hard to predict, now imagine trying to find human cultural remains after 1000s of years of
-environmental change. It becomes a difficult task, especially since people did different things in
-different areas, so it has to take the physical environment into consideration, which we do not always
-have great data for. So this predictive model becomes in part a machine learning exercise, a program
-that has good judgment based on the data that is available to it. Obviously this is a major task,
-hopefully this program helps me make sense of all of it.
-My future plans are to stay with the government as an Archaeologist, working on normal projects and
-consistently solving technical problems for my office (right now our IT guy is pretty useless).
-Hopefully in the next 5 years I will have a good start on this predictive model. I will be married this
-year to an amazing woman. Who knows? Maybe I will do a correspondence degree and get my Masters
-degree (or PhD?).
-Lastly I'll end you with the fun stuff, my hobbies. Living in Rawlins, WY there isn't always a whole lot
-to do. I love cooking, especially when I get a fresh cut of wild game from something that one of my
-friends have shot. I also love movies, especially now that I have an awesome big screen TV and
-surround sound. I have a running game night that some friends and I do on Monday's. We play
-everything from Dungeons and Dragons all the way to Settlers of Catan and Legendary. In the winter
-time I get one of my favorite activities, Wallyball at the rec center with some work nights. Thanks for
-reading!
+
+This brings me to why I am in this program. For those of you that don't know, Archaeologists are notoriously technophobic. Most don't like math, and programming is literally a foreign language. I however love both technology and going out side and looking for cultural material. In my head I have an idea to create a well developed predictive model system. There are many problems with the vast majority of predictive models that have been created for archaeology right now. Humans are generally hard to predict, now imagine trying to find human cultural remains after 1000s of years of environmental change. It becomes a difficult task, especially since people did different things in different areas, so it has to take the physical environment into consideration, which we do not always have great data for. So this predictive model becomes in part a machine learning exercise, a program that has good judgment based on the data that is available to it. Obviously this is a major task, hopefully this program helps me make sense of all of it.
+My future plans are to stay with the government as an Archaeologist, working on normal projects and consistently solving technical problems for my office (right now our IT guy is pretty useless). Hopefully in the next 5 years I will have a good start on this predictive model. I will be married this year to an amazing woman. Who knows? Maybe I will do a correspondence degree and get my Masters degree (or PhD?).
+
+Lastly I'll end you with the fun stuff, my hobbies. Living in Rawlins, WY there isn't always a whole lot to do. I love cooking, especially when I get a fresh cut of wild game from something that one of my friends have shot. I also love movies, especially now that I have an awesome big screen TV and surround sound. I have a running game night that some friends and I do on Monday's. We play everything from Dungeons and Dragons all the way to Settlers of Catan and Legendary. In the winter
+time I get one of my favorite activities, Wallyball at the rec center with some work nights. Thanks for reading!
 
 I am adding more data to my bio- non programming branch. This is step 10.
+
+I am getting married in June... did I mention that. This is step 12.
