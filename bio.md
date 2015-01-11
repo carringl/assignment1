@@ -39,3 +39,5 @@ time I get one of my favorite activities, Wallyball at the rec center with some 
 reading!
 
 I am adding more data to my bio- non programming branch. This is step 10.
+
+This is the alternate bio portion of my assignment.
